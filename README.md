@@ -12,6 +12,15 @@ PDN is a network proposed for denoising plant point clouds based on point densit
 see more details in our paper: “Plant-Denoising-Net (PDN): A Plant Point Cloud Denoising Network based on Density Gradient Field Learning”
 # Getting Started
 Dataset download link: https://drive.google.com/drive/folders/1-4LNb0jcSCpKWJ7Ngr5XlRwo7IpyYF8G?usp=sharing
+## Environment
+PyTorch 1.9.0 + CUDA 11.1
+
+## Train
+python test.py
+
+## Train
+python train.py
+
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 # Citation
