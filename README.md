@@ -15,7 +15,7 @@ Dataset download link: https://drive.google.com/drive/folders/1-4LNb0jcSCpKWJ7Ng
 ## Environment
 PyTorch 1.9.0 + CUDA 11.1
 
-## Train
+## Test
 python test.py
 
 ## Train
